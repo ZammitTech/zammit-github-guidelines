@@ -59,7 +59,7 @@ Follow this for both PR titles and any commit in general
 - Urgent bug fix: `hotfix: [ZAM-3333] add tappy missing keys`
 - Refactor: `refactor: [ZAM-4444] separate address form into components`
 
-## Usful links
+## Useful links
 
 - Check this link for branchs, PRs and commits types: [commit type](https://mazer.dev/en/git/best-practices/git-semantic-commits/#type)
 
